@@ -6,3 +6,5 @@
 4. visit the endpoint `/create` and `/view`
 5. Open the files in the crud folder and change the id parameters to the ids shown in the endpoint view.
    Thank you
+   
+ # Tech Stack- MongoDB, NodeJs, Kerberos ( for offline database authentication) and mongoose for interacting with MongoDb
